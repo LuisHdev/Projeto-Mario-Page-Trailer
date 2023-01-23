@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Mario Page Trailer é uma página de apresentação da sinopse do filme "Super Mario Bros - O Filme" com um modal do vídeo no Youtube o que leva o usuário a conhecer um pouco mais sobre o filme.
 
- - [Visite o projeto online](LuisHdev.github.io/Projeto-Mario-Page-Trailer)
+ - [Visite o projeto online](https://luishdev.github.io/Projeto-Mario-Page-Trailer/)
 
 
 ## :memo: Licença
